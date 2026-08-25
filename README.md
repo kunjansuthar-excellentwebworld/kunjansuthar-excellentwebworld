@@ -61,18 +61,11 @@ I'm a passionate software developer focused on building modern, scalable, and us
 ### 🌐 Connect With Me
 
 <p align="left">
-  <a href="https://www.github.com/kunjansuthar" target="_blank" rel="noreferrer">
+  <a href="https://www.github.com/kunjansuthar-excellentwebworld" target="_blank" rel="noreferrer">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" />
       <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" />
       <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" />
-    </picture>
-  </a>
-  <a href="https://www.gitlab.com/kunjansuthar-excellentwebworld" target="_blank" rel="noreferrer">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/gitlab.svg" />
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/gitlab.svg" />
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/gitlab.svg" width="32" height="32" alt="GitLab" title="GitLab" />
     </picture>
   </a>
   <a href="https://www.linkedin.com/in/kunjan-suthar-5601131a6" target="_blank" rel="noreferrer">
