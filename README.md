@@ -14,7 +14,6 @@ I'm a passionate software developer focused on building modern, scalable, and us
 - 💬 **Ask me about:** Angular, .NET, C#, Azure, Web Development, REST APIs, and UI Development
 - 🎯 **Philosophy:** *Clean code. Scalable architecture. Great user experience. Continuous learning.*
 - 🌍 **Location:** Ahmedabad, Gujarat, India
-- ✉️ **Email:** [kunjansuthar2402@gmail.com](mailto:kunjansuthar2402@gmail.com)
 - 👥 **Looking to collaborate on:** AI-powered development, automation, modern software architecture, and AI-assisted coding
 
 ---
@@ -83,7 +82,6 @@ I'm a passionate software developer focused on building modern, scalable, and us
       <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" />
     </picture>
   </a>
-  <a href="mailto:kunjansuthar2402@gmail.com" target="_blank" rel="noreferrer">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/gmail-dark.svg" />
       <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/gmail.svg" />
